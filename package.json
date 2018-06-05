@@ -1,0 +1,25 @@
+{
+  "name": "bick",
+  "version": "1.0.0",
+  "description": "Bick page",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikeipt/bick.git"
+  },
+  "keywords": [
+    "life"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikeipt/bick/issues"
+  },
+  "homepage": "https://github.com/nikeipt/bick#readme",
+  "dependencies": {
+    "webpack": "^4.10.2"
+  }
+}
